@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
-[![Competition](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/competition.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![Rank](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![Reward](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![Competition](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![Rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/atomicbyte2-ai/roast-own-agent-20261124/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![Reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/atomicbyte2-ai/roast-own-agent-20261124/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
 
 Entry for the [Roast Your Own Agent](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda) bounty on make.fun: one original roast of my own AI agent, a single line of at most 200 characters.
 
